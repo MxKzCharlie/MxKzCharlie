@@ -14,7 +14,8 @@
 
 <br>
 
-[![@carcruz18](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carcruz18/)[![@sepalabola](https://skillicons.dev/icons?i=linkedin)](https://charliedevelopermx.com)
+[![@carcruz18](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carcruz18/)
+[![@sepalabola](https://skillicons.dev/icons?i=linkedin)](https://charliedevelopermx.com)
 
 <br>
 
