@@ -2,11 +2,11 @@
 
 ## Sobre mí :
 
-- 🏢 Soy un Desarrollador Full Stack
-- 🎓 Estudio en un bootcamp llamado Academia X por Xavier Reyes
-- 🎓 Estudio por mi propia cuenta, me gusta ser autodidacta
-- 🏡 Vivo en Tijuana, Baja California, México
-- ⚡ La música es vital para la vida
+- 🏢 Soy un Desarrollador Full Stack, con experiencia siendo freelancer.
+- 🎓 Estudio en un bootcamp llamado Academia X por Xavier Reyes.
+- 🎓 Me gusta ser autodidacta y usar herramientas modernas.
+- 🏡 Vivo en Tijuana, Baja California, México.
+- ⚡ La música es vital para la vida.
 
 <br>
 
