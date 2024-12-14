@@ -14,7 +14,7 @@
 
 <br>
 
-[![@carcruz18](https://img.icons8.com/fluency/48/000000/instagram-new.png "@carcruz18")](https://www.instagram.com/carcruz18/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
+[![@carcruz18](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carcruz18/)[![@sepalabola](https://skillicons.dev/icons?i=linkedin)](https://charliedevelopermx.com)
 
 <br>
 
@@ -22,10 +22,10 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,express,mysql,nextjs,nodejs,py)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=django,express,mysql,nextjs,nodejs,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=discord,git,netlify,npm,vercel,vscode,vite)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=discord,git,netlify,npm,vercel,vscode,vite)](https://skillicons.dev)
 
 <br>
