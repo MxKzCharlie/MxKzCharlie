@@ -17,6 +17,8 @@
 [![@carcruz18](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carcruz18/)
 [![@sepalabola](https://skillicons.dev/icons?i=linkedin)](https://charliedevelopermx.com)
 
+<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='portfolio'/>
+
 <br>
 
 ## Habilidades destacadas 🧑‍💻 :
