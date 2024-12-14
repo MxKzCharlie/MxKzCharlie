@@ -15,7 +15,7 @@
 
 <br>
 
-[![@carcruz18](https://img.icons8.com/fluency/48/000000/instagram-new.png "@carcruz18")]([https://www.instagram.com/carcruz18/] [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
+[![@carcruz18](https://img.icons8.com/fluency/48/000000/instagram-new.png "@carcruz18")](https://www.instagram.com/carcruz18/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) 
 
 <br>
 
