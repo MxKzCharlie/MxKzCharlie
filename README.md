@@ -11,7 +11,7 @@
 
 <br>
 
-## Connect with me ☕ :
+## Contactame ☕ :
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Habilidades destacadas 🧑‍💻 :
 
 <br>
 
