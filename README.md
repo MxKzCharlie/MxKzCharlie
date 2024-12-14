@@ -2,12 +2,11 @@
 
 ## Sobre mí :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Soy un Desarrollador Full Stack
+- 🎓 Estudio en un bootcamp llamado Academia X por Xavier Reyes
+- 🎓 Estudio por mi propia cuenta, me gusta ser autodidacta
+- 🏡 Vivo en Tijuana, Baja California, México
+- ⚡ La música es vital para la vida
 
 <br>
 
