@@ -34,6 +34,6 @@
 <br>
 
 ### 📊 Estadísticas de lenguajes
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxKzCharlie&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxKzCharlie&layout=compact&theme=dark)
 
 <br>
