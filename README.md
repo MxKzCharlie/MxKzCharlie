@@ -32,3 +32,8 @@
 [![Others](https://skillicons.dev/icons?i=discord,git,netlify,npm,vercel,vscode,vite)](https://skillicons.dev)
 
 <br>
+
+### 📊 Estadísticas de lenguajes
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxKzCharlie&layout=compact&theme=radical)
+
+<br>
