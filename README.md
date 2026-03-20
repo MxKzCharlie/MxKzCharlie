@@ -14,7 +14,6 @@
 
 <br>
 
-[![portolfio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://charliedevelopermx.com)
 
 [![@carcruz18](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carcruz18/)
 [![@CarlosCruz](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carlos-cruz-b36212342)
